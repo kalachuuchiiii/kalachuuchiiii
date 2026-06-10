@@ -74,7 +74,7 @@ An intelligent, full-featured flashcard application designed to help users learn
 
 **Motivation**: Deepen understanding of relational databases, data migrations, and backend best practices.
 
-**Live**: [pixiflash.vercel.app](https://pixiflash.vercel.app)
+**Live**: [pixiflash.vercel.app](https://pixiflash.vercel.app) or [pixis.up.railway.app](https://pixis.up.railway.app)
 
 ---
 
@@ -90,7 +90,7 @@ A survey hub that increases response rates through gamification and AI-assisted 
 
 **Motivation**: Deepen understanding of NoSQL databases and build more complex applications.
 
-**Live**: [inquestia-ask.vercel.app](https://inquestia-ask.vercel.app)
+**Live**: [inquestia-ask.vercel.app](https://inquestia-ask.vercel.app) or [inquestia-ask.up.railway.app](https://inquestia-ask.up.railway.app)
 
 ## Development Approach
 
