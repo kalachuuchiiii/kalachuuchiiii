@@ -62,6 +62,18 @@ My journey reflects intentional growth: from exploring the MERN stack and DevOps
 
 ## Notable Projects
 
+### Hear From You
+
+A digital sanctuary of analog memories. This cozy, nostalgic web application lets users curate, collect, and listen to cassettes made from millions of songs, reviving the classic art of the mixtape for the digital era.
+
+**Why I Built It**: I wanted to bring back the intentionality and charm of physical mixtapes. Unlike modern infinite playlists, cassettes force you to select and curate music with care.
+
+**Key Features**: Custom cassette curation, search from millions of tracks, gorgeous cassette player visualizations, public collections, and shareable nostalgic player links.
+
+**Tech Stack**: Next.js (App Router), PostgreSQL (with pagination/cursors), TypeScript, Tailwind CSS, Shadcn/ui
+
+**Live**: [Hear From You](https://www.hearfromyou.xyz)
+
 ### Pixiflash
 
 An intelligent, full-featured flashcard application designed to help users learn more effectively through AI-powered tools and intuitive study modes.
