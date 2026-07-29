@@ -31,6 +31,9 @@ My journey reflects intentional growth: from exploring the MERN stack and DevOps
 **Data & State Management**
 
 - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- [![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white)](https://typeorm.io/)
+- [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+- [![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=C5F74F)](https://orm.drizzle.team/)
 - [![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react&logoColor=white)](https://tanstack.com/query/)
 - [![Zod](https://img.shields.io/badge/Zod-3E67AC?style=flat-square&logo=zod&logoColor=white)](https://zod.dev/)
 - [![Zustand](https://img.shields.io/badge/Zustand-222425?style=flat-square&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
@@ -41,7 +44,13 @@ My journey reflects intentional growth: from exploring the MERN stack and DevOps
 - [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 - [![ESLint](https://img.shields.io/badge/ESLint-4B3B8A?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
 - [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
-
+- [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app/)
+- [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com/)
+- [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
+- [![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/r2/)
+- [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
+- [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+  
 ## What I Do
 
 **Full-Stack Development**
