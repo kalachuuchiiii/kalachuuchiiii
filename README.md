@@ -1,4 +1,4 @@
-# Paris | Full-Stack Developer
+# Paris/Kalachuuchiiii | Full-Stack Developer
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -146,23 +146,14 @@ Also actively contributing to the developer community through:
 - Documentation and code examples
 - Sharing knowledge and best practices
 
-## Resume & Experience
+## Experience
 
 **Key Highlights**
-
 - 2+ years of hands-on development experience
 - Full-stack application development across multiple projects
 - Backend API design and optimization
 - Database modeling and management
 - Modern DevOps and deployment practices
-
-[Download Resume (CV)](./cv) | [View Portfolio](https://parisliam.vercel.app)
-
-## Get in Touch
-
-- **Portfolio**: [parisliam.vercel.app](https://parisliam.vercel.app)
-- **LinkedIn**: [Paris Liam Gabagat](https://www.linkedin.com/in/paris-liam-gabagat-9332ab362/)
-- **Email**: [parissrowlet@gmail.com](mailto:parissrowlet@gmail.com)
 
 ## Interests
 
@@ -171,9 +162,3 @@ Also actively contributing to the developer community through:
 - Open source collaboration
 - Technical mentoring and knowledge sharing
 - Exploring emerging technologies
-
----
-
-**Open to collaborations, freelance projects, internships, and opportunities to build great products.**
-
-I'm always interested in discussing new projects, technologies, and ideas. Feel free to reach out!
