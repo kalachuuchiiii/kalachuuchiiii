@@ -75,6 +75,8 @@ My journey reflects intentional growth: from exploring the MERN stack and DevOps
 
 A digital sanctuary of analog memories. This cozy, nostalgic web application lets users curate, collect, and listen to cassettes made from millions of songs, reviving the classic art of the mixtape for the digital era.
 
+**Created**: ~2 months ago
+
 **Why I Built It**: I wanted to bring back the intentionality and charm of physical mixtapes. Unlike modern infinite playlists, cassettes force you to select and curate music with care.
 
 **Key Features**: Custom cassette curation, search from millions of tracks, gorgeous cassette player visualizations, public collections, and shareable nostalgic player links.
@@ -87,21 +89,27 @@ A digital sanctuary of analog memories. This cozy, nostalgic web application let
 
 An intelligent, full-featured flashcard application designed to help users learn more effectively through AI-powered tools and intuitive study modes.
 
+**Created**: ~4 months ago
+
 **Why I Built It**: I wanted to create an application where AI actually supports learning, not hinders it. Noticed friends using AI ineffectively, so I built a better solution.
 
 **Key Features**: AI Assistant for flashcard generation, Notes & PDF to Flashcards conversion, Study Modes, Learning Resources, Progress Tracking, Deck System
 
-**Tech Stack**: NestJS + TypeORM + PostgreSQL (Backend), React + TanStack Query (Frontend), TurboRepo + GitHub Actions (CI/CD), Render (Hosting)
+**Tech Stack**: NestJS + TypeORM + PostgreSQL (Backend), React + TanStack Query (Frontend), TurboRepo + GitHub Actions (CI/CD), Vercel (Hosting)
 
 **Motivation**: Deepen understanding of relational databases, data migrations, and backend best practices.
 
-**Live**: [pixiflash.vercel.app](https://pixiflash.vercel.app) or [pixis.up.railway.app](https://pixis.up.railway.app)
+**Live**: [Pixiflash - An AI-Powered Flashcard App](https://pixiflash.vercel.app)
 
 ---
 
 ### Inquestia
 
+> **Status: development paused.**
+
 A survey hub that increases response rates through gamification and AI-assisted data collection, supporting anonymity and team collaboration for researchers.
+
+**Created**: ~1 year ago
 
 **Why I Built It**: Realized that surveys lose engagement over time as participants get bored. Wanted to solve data gathering challenges by making surveys engaging through gamification.
 
@@ -110,9 +118,6 @@ A survey hub that increases response rates through gamification and AI-assisted 
 **Tech Stack**: Express.js + MongoDB (Backend), React + TanStack Query (Frontend), TurboRepo + GitHub Actions (CI/CD), Vercel & Render (Hosting)
 
 **Motivation**: Deepen understanding of NoSQL databases and build more complex applications.
-
-**Live**: [inquestia-ask.vercel.app](https://inquestia-ask.vercel.app) or [inquestia-ask.up.railway.app](https://inquestia-ask.up.railway.app)
-
 ## Development Approach
 
 - **Type Safety First**: Leverage TypeScript and Zod validation across the stack
